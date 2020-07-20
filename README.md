@@ -1,6 +1,6 @@
 # info
 /info command for your fivem server
-(It only shows a message in your chat box, currently i'm working on a UI)
+(It only shows a message in your chat box, currently i'm working on a NUI)
 
 ## U can use this script everywhere u want cause its a very simple script, so do what you want with it ;).
 
